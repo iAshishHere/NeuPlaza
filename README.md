@@ -2,7 +2,7 @@
 
 NeuPlaza is an attempt to make a virtual place where people can ask their queries, and other people can answer it.<br><br>
 
-As of initial development, it is planned to have the following feature:<br><br>
+For our MVP, it is planned to have the following feature:<br><br>
 -----------------------------------------------------------------------
 > Any registered user can post the question. <br>
 > Any registered user can make use of multiple tags on a particular question.<br>
