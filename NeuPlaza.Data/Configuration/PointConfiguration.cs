@@ -19,15 +19,18 @@ namespace NeuPlaza.Data.Configuration
 
             builder.HasOne(p => p.User)
                   .WithMany(p => p.Points)
-                  .HasForeignKey(p => p.UserId);
+                  .HasForeignKey(p => p.UserId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(p => p.Question)
                   .WithMany(p => p.Points)
-                  .HasForeignKey(p => p.QuestionId);
+                  .HasForeignKey(p => p.QuestionId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(p => p.Answer)
                   .WithMany(p => p.Points)
-                  .HasForeignKey(p => p.AnswerId);
+                  .HasForeignKey(p => p.AnswerId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
 
 

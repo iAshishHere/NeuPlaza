@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Business\\NeuPlaza.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Business\\NeuPlaza.Business.csproj",
       "projectName": "NeuPlaza.Business",
-      "projectPath": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Business\\NeuPlaza.Business.csproj",
+      "projectPath": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Business\\NeuPlaza.Business.csproj",
       "packagesPath": "C:\\Users\\ashish.kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Business\\obj\\",
+      "outputPath": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -15,11 +15,13 @@ namespace NeuPlaza.Data.Configuration
 
             builder.HasOne(p => p.Question)
                   .WithMany(p => p.TagDetails)
-                  .HasForeignKey(p => p.QuestionId);
+                  .HasForeignKey(p => p.QuestionId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(p => p.Tag)
                   .WithMany(p => p.TagDetails)
-                  .HasForeignKey(p => p.TagId);
+                  .HasForeignKey(p => p.TagId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
             /*builder.HasOne(u => u.QuestionId)
             .WithOne()

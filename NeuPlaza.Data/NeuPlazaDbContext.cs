@@ -25,10 +25,10 @@ namespace NeuPlaza.Data
         public DbSet<TagDetail> TagDetails { get; set; }
 
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=DB_NeuPlaza;Trusted_Connection=True;");
-        }*/
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -247,7 +247,7 @@ namespace NeuPlaza.Data.Migrations
                     b.HasOne("NeuPlaza.Data.Model.User", "User")
                         .WithMany("Answers")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
                 });
 
@@ -256,19 +256,19 @@ namespace NeuPlaza.Data.Migrations
                     b.HasOne("NeuPlaza.Data.Model.Answer", "Answer")
                         .WithMany("Comments")
                         .HasForeignKey("AnswerId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("NeuPlaza.Data.Model.Question", "Question")
                         .WithMany("Comments")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("NeuPlaza.Data.Model.User", "User")
                         .WithMany("Comments")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
                 });
 
@@ -277,19 +277,19 @@ namespace NeuPlaza.Data.Migrations
                     b.HasOne("NeuPlaza.Data.Model.Answer", "Answer")
                         .WithMany("Points")
                         .HasForeignKey("AnswerId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("NeuPlaza.Data.Model.Question", "Question")
                         .WithMany("Points")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("NeuPlaza.Data.Model.User", "User")
                         .WithMany("Points")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
                 });
 
@@ -298,7 +298,7 @@ namespace NeuPlaza.Data.Migrations
                     b.HasOne("NeuPlaza.Data.Model.User", "User")
                         .WithMany("Questions")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
                 });
 
@@ -307,13 +307,13 @@ namespace NeuPlaza.Data.Migrations
                     b.HasOne("NeuPlaza.Data.Model.Question", "Question")
                         .WithMany("TagDetails")
                         .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("NeuPlaza.Data.Model.Tag", "Tag")
                         .WithMany("TagDetails")
                         .HasForeignKey("TagId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
                 });
 #pragma warning restore 612, 618

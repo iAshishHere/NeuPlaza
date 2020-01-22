@@ -23,7 +23,8 @@ namespace NeuPlaza.Data.Configuration
 
             builder.HasOne(p => p.User)
                   .WithMany(p => p.Questions)
-                  .HasForeignKey(p => p.UserId);
+                  .HasForeignKey(p => p.UserId)
+                  .OnDelete(DeleteBehavior.Restrict);
 
 
         }

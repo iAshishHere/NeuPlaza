@@ -9,3 +9,13 @@ C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.pdb
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.dll
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.pdb
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.dll.config
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.deps.json
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.runtimeconfig.json
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.runtimeconfig.dev.json
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.dll
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\bin\Debug\netcoreapp3.1\NeuPlaza.Data.pdb
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.AssemblyInfoInputs.cache
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.AssemblyInfo.cs
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.dll
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Data\obj\Debug\netcoreapp3.1\NeuPlaza.Data.pdb

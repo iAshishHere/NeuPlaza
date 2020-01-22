@@ -6,3 +6,11 @@ C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Business\obj\Debug\netcorea
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.AssemblyInfo.cs
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.dll
 C:\Users\ashish.kumar\Desktop\work\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.pdb
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\bin\Debug\netcoreapp3.1\NeuPlaza.Business.deps.json
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\bin\Debug\netcoreapp3.1\NeuPlaza.Business.dll
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\bin\Debug\netcoreapp3.1\NeuPlaza.Business.pdb
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.csprojAssemblyReference.cache
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.AssemblyInfoInputs.cache
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.AssemblyInfo.cs
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.dll
+C:\Users\ashish.kumar\Desktop\product\NeuPlaza\NeuPlaza.Business\obj\Debug\netcoreapp3.1\NeuPlaza.Business.pdb

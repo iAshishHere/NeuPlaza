@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj": {}
+    "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj": {
+    "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj",
         "projectName": "NeuPlaza.Data",
-        "projectPath": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj",
+        "projectPath": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Data\\NeuPlaza.Data.csproj",
         "packagesPath": "C:\\Users\\ashish.kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashish.kumar\\Desktop\\work\\NeuPlaza\\NeuPlaza.Data\\obj\\",
+        "outputPath": "C:\\Users\\ashish.kumar\\Desktop\\product\\NeuPlaza\\NeuPlaza.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
