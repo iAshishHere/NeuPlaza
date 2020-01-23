@@ -9,23 +9,23 @@ using NeuPlaza.Data.Model;
 
 namespace NeuPlaza.Api.Controllers
 {
-    [Route("api/User")]
+    [Route("api/Question")]
     [ApiController]
-    public class UserController : ControllerBase
+    public class QuestionController : ControllerBase
     {
         private readonly NeuPlazaDbContext _context;
 
-        public UserController(NeuPlazaDbContext context)
+        public QuestionController(NeuPlazaDbContext context)
         {
             _context = context;
         }
-        //[]
+
         [HttpPost]
-        public async Task<ActionResult<User>> PostTodoItem(User user)
+        public async Task<ActionResult<Question>> PostTodoItem(Question question)
         {
-            _context.Users.Add(user);
+            _context.Questions.Add(question);
             await _context.SaveChangesAsync();
-            var users = _context.Users.ToList();            
+            var users = _context.Users.ToList();
             return Ok();
         }
     }
